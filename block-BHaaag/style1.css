@@ -1,0 +1,37 @@
+body{
+   background-color: rgb(21, 21, 107);
+   font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+h1{
+    /*font-size: 40px;*/
+    color:white;
+}
+h2
+{
+    font-size: 28px;
+    color: rgb(49, 161, 68);
+}
+p{
+    color: white; 
+    font-size: 18px;
+}
+h3{
+   font-size: 24px;
+    color: white;
+}
+h4{
+    font-size: 22px;
+    color: white;
+}
+h5{
+    font-size: 20px;
+    color: white;
+}
+a{
+    display:inline-block;
+    font-size: 16px;
+    color:crimson;
+    
+}
