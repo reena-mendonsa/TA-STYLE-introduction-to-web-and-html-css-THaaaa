@@ -5,7 +5,7 @@ body{
  }
  
 
-header{
+.header{
     text-align: center;
 }
 h2
@@ -19,3 +19,7 @@ a{
     
 }
 
+.footer{
+    text-align: center;
+    background-color: rgb(20, 20, 34);
+}
