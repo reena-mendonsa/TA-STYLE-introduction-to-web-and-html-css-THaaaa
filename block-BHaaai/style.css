@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(20, 20, 112);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+ }
+ 
+
+.header{
+    text-align: center;
+}
+h2
+{
+    
+    color: rgb(49, 161, 68);
+    
+}
+a{
+    color:crimson;
+    
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(20, 20, 34);
+}
